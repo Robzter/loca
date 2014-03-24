@@ -1,0 +1,384 @@
+/* No comment provided by engineer. */
+"--- ALL CATEGORIES ---" = "--- ALL CATEGORIES ---";
+
+/* No comment provided by engineer. */
+"About" = "About";
+
+/* No comment provided by engineer. */
+"Add Comment" = "Add Comment";
+
+/* No comment provided by engineer. */
+"Add Map" = "Add Map";
+
+/* No comment provided by engineer. */
+"Add Map By URL" = "Add Map By URL";
+
+/* No comment provided by engineer. */
+"Add Map Error" = "Add Map Error";
+
+/* No comment provided by engineer. */
+"Add Report" = "Add Report";
+
+/* No comment provided by engineer. */
+"Added" = "Added";
+
+/* No comment provided by engineer. */
+"Adding..." = "Adding...";
+
+/* No comment provided by engineer. */
+"All Categories" = "All Categories";
+
+/* No comment provided by engineer. */
+"All Checkins" = "All Checkins";
+
+/* No comment provided by engineer. */
+"Anonymous" = "Anonymous";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel?" = "Are you sure you want to cancel?";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Authentication Required";
+
+/* No comment provided by engineer. */
+"By using this app, you agree to the following terms and policy:" = "By using this app, you agree to the following terms and policy:";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Categories" = "Categories";
+
+/* No comment provided by engineer. */
+"Categories..." = "Categories...";
+
+/* No comment provided by engineer. */
+"Category Required" = "Category Required";
+
+/* No comment provided by engineer. */
+"Checkins..." = "Checkins...";
+
+/* No comment provided by engineer. */
+"Comment Queued" = "Comment Queued";
+
+/* No comment provided by engineer. */
+"Comment Required" = "Comment Required";
+
+/* No comment provided by engineer. */
+"Contact" = "Contact";
+
+/* No comment provided by engineer. */
+"Date Required" = "Date Required";
+
+/* No comment provided by engineer. */
+"Description Required" = "Description Required";
+
+/* No comment provided by engineer. */
+"Details" = "Details";
+
+/* No comment provided by engineer. */
+"Display" = "Display";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"Double tap to move map pin to new location" = "Double tap to move map pin to new location";
+
+/* No comment provided by engineer. */
+"Download Map Images" = "Download Map Images";
+
+/* No comment provided by engineer. */
+"Download Photos" = "Download Photos";
+
+/* No comment provided by engineer. */
+"Email Required" = "Email Required";
+
+/* No comment provided by engineer. */
+"Enable OpenGeoSMS" = "Enable OpenGeoSMS";
+
+/* No comment provided by engineer. */
+"Enter comment" = "Enter comment";
+
+/* No comment provided by engineer. */
+"Enter description" = "Enter description";
+
+/* No comment provided by engineer. */
+"Enter email" = "Enter email";
+
+/* No comment provided by engineer. */
+"Enter email address" = "Enter email address";
+
+/* No comment provided by engineer. */
+"Enter first name" = "Enter first name";
+
+/* No comment provided by engineer. */
+"Enter last name" = "Enter last name";
+
+/* No comment provided by engineer. */
+"Enter name" = "Enter name";
+
+/* No comment provided by engineer. */
+"Enter title" = "Enter title";
+
+/* No comment provided by engineer. */
+"Enter webpage" = "Enter webpage";
+
+/* No comment provided by engineer. */
+"Error Saving Photo" = "Error Saving Photo";
+
+/* No comment provided by engineer. */
+"Find Location" = "Find Location";
+
+/* No comment provided by engineer. */
+"Find Maps Around Me" = "Find Maps Around Me";
+
+/* No comment provided by engineer. */
+"Finding address..." = "Finding address...";
+
+/* No comment provided by engineer. */
+"Finding location..." = "Finding location...";
+
+/* No comment provided by engineer. */
+"for" = "for";
+
+/* No comment provided by engineer. */
+"Found" = "Found";
+
+/* No comment provided by engineer. */
+"Hide Status Bar" = "Hide Status Bar";
+
+/* No comment provided by engineer. */
+"I Agree" = "I Agree";
+
+/* No comment provided by engineer. */
+"Icon Badge Number" = "Icon Badge Number";
+
+/* No comment provided by engineer. */
+"Internet Connection Required" = "Internet Connection Required";
+
+/* No comment provided by engineer. */
+"Last synced" = "Last synced";
+
+/* No comment provided by engineer. */
+"Latitude Required" = "Latitude Required";
+
+/* No comment provided by engineer. */
+"List" = "List";
+
+/* No comment provided by engineer. */
+"Loading..." = "Loading...";
+
+/* No comment provided by engineer. */
+"Locating..." = "Locating...";
+
+/* No comment provided by engineer. */
+"Location Required" = "Location Required";
+
+/* No comment provided by engineer. */
+"Locations..." = "Locations...";
+
+/* No comment provided by engineer. */
+"Longitude Required" = "Longitude Required";
+
+/* No comment provided by engineer. */
+"Map" = "Map";
+
+/* No comment provided by engineer. */
+"Maps" = "Maps";
+
+/* No comment provided by engineer. */
+"Maps..." = "Maps...";
+
+/* No comment provided by engineer. */
+"Model" = "Model";
+
+/* No comment provided by engineer. */
+"Name Required" = "Name Required";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No Category" = "No Category";
+
+/* No comment provided by engineer. */
+"No checkins" = "No checkins";
+
+/* No comment provided by engineer. */
+"No comments" = "No comments";
+
+/* No comment provided by engineer. */
+"No Date" = "No Date";
+
+/* No comment provided by engineer. */
+"No Internet" = "No Internet";
+
+/* No comment provided by engineer. */
+"No Location" = "No Location";
+
+/* No comment provided by engineer. */
+"No maps" = "No maps";
+
+/* No comment provided by engineer. */
+"No photos" = "No photos";
+
+/* No comment provided by engineer. */
+"No reports" = "No reports";
+
+/* No comment provided by engineer. */
+"No videos" = "No videos";
+
+/* No comment provided by engineer. */
+"No webpages" = "No webpages";
+
+/* No comment provided by engineer. */
+"Not verified" = "Not verified";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Pending" = "Pending";
+
+/* No comment provided by engineer. */
+"Pending Upload" = "Pending Upload";
+
+/* No comment provided by engineer. */
+"Photos" = "Photos";
+
+/* No comment provided by engineer. */
+"Photos..." = "Photos...";
+
+/* No comment provided by engineer. */
+"Please verify your internet connection and try again." = "Please verify your internet connection and try again.";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privacy Policy";
+
+/* No comment provided by engineer. */
+"Report Queued" = "Report Queued";
+
+/* No comment provided by engineer. */
+"Reports" = "Reports";
+
+/* No comment provided by engineer. */
+"Reports..." = "Reports...";
+
+/* No comment provided by engineer. */
+"Resize New Photos" = "Resize New Photos";
+
+/* No comment provided by engineer. */
+"Resize Photo Width" = "Resize Photo Width";
+
+/* No comment provided by engineer. */
+"Saved" = "Saved";
+
+/* No comment provided by engineer. */
+"Saving..." = "Saving...";
+
+/* No comment provided by engineer. */
+"Search address..." = "Search address...";
+
+/* No comment provided by engineer. */
+"Search checkins..." = "Search checkins...";
+
+/* No comment provided by engineer. */
+"Search reports..." = "Search reports...";
+
+/* No comment provided by engineer. */
+"Searching..." = "Searching...";
+
+/* No comment provided by engineer. */
+"Select a category" = "Select a category";
+
+/* No comment provided by engineer. */
+"Send" = "Send";
+
+/* No comment provided by engineer. */
+"Send via OpenGeoSMS" = "Send via OpenGeoSMS";
+
+/* No comment provided by engineer. */
+"Sending..." = "Sending...";
+
+/* No comment provided by engineer. */
+"Sent" = "Sent";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Share Application" = "Share Application";
+
+/* No comment provided by engineer. */
+"SMS" = "SMS";
+
+/* No comment provided by engineer. */
+"Synchronize Error" = "Synchronize Error";
+
+/* No comment provided by engineer. */
+"Syncing..." = "Syncing...";
+
+/* No comment provided by engineer. */
+"Terms Of Service" = "Terms Of Service";
+
+/* No comment provided by engineer. */
+"Title Required" = "Title Required";
+
+/* No comment provided by engineer. */
+"Unable to add map to database" = "Unable to add map to database";
+
+/* No comment provided by engineer. */
+"Unsaved Changes" = "Unsaved Changes";
+
+/* No comment provided by engineer. */
+"Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"Upload Error" = "Upload Error";
+
+/* No comment provided by engineer. */
+"Upload via Ushahidi API" = "Upload via Ushahidi API";
+
+/* No comment provided by engineer. */
+"Uploaded" = "Uploaded";
+
+/* No comment provided by engineer. */
+"Uploaded report..." = "Uploaded report...";
+
+/* No comment provided by engineer. */
+"Uploaded video..." = "Uploaded video...";
+
+/* No comment provided by engineer. */
+"Uploading..." = "Uploading...";
+
+/* No comment provided by engineer. */
+"User Agreement" = "User Agreement";
+
+/* No comment provided by engineer. */
+"User Captured Video" = "User Captured Video";
+
+/* No comment provided by engineer. */
+"User Location" = "User Location";
+
+/* No comment provided by engineer. */
+"Verified" = "Verified";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"Video Error" = "Video Error";
+
+/* No comment provided by engineer. */
+"with" = "with";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"Your report has been uploaded and is pending approval." = "Your report has been uploaded and is pending approval.";
+
